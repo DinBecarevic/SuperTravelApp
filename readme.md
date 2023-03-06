@@ -20,7 +20,7 @@ This is a web app for planning your route from one destination to another. It us
 3. note: you will need to have a (Developer, Professional or Enterprise subscription plan) account, because this code uses (Climatic Forecast 30 days) 
 
     ```bash
-    git clone https://github.com/username/route-planning-app.git
+    git clone https://github.com/DinBecarevic/SuperTravelApp.git
      ```
 2. Run the travel.py file to start the app.
 3. Open localhost:5000 in your browser to view the app.
